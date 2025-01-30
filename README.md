@@ -56,6 +56,7 @@ python3 main.py
 
 - Si tienes problemas con permisos, intenta usar `pip install --user -r requirements.txt`.
 - Para salir del entorno virtual, usa `deactivate`.
+- se puede modificar los datos argumentos de busqueda en el archivo src/resource/config.ini (recomedad fechas, src dest activties)
 
 ---
 
